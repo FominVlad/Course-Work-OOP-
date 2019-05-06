@@ -1,0 +1,14 @@
+Kozel
+Ivan
+Petrovich
+564234543458
+25.11.1985
+Kyiv, Velika Vaselkivska 15
++38050556325
+8
+01.12.2018|Doc1|Disease1|Comment1
+02.12.2018|Doc2|Disease2|Comment2
+03.12.2018|Doc3|Disease3|Comment3
+04.12.2018|Doc4|Disease4|Comment4
+05.12.2018|Doc5|Disease5|Comment5
+06.12.2018|Doc6|Disease6|Comment6
